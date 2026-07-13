@@ -7,37 +7,30 @@
 </div>
 
 ```
-                                                          
-                                                          
-                                                          
-                                                          sampath@github ──────────────────────────────────
-                                                          OS ....................................... macOS, Linux
-                                                          Uptime ......................... MS @ UMD, College Park
-                                                          Host ................................. College Park, MD
-                                                          Kernel ............................... AI & ML Engineer
-                                                          IDE ........................... Cursor, VSCode, Jupyter
-                                                          
-                      .:;+++++:                           Languages.Programming .............. Python, R, Java, C
-                  :++%%##SS#@#S#S?;,:,                    Languages.Frameworks ... PyTorch, TensorFlow, LangChain
-                :?S####SS#S####@@@@%?#%.                  Languages.Human ....................... English, Telugu
-               ,S@@#####@##@@@@@@##@###S;                 
-              :%S#####@@@@@@######@#@@#@@+                Interests.AI ........... LLMs, RAG, Agentic AI, Edge AI
-              ?%S#@#SSSSSSS%%%%%?%S@##@##%                Interests.ML ........... Deep Learning, Computer Vision
-             ,#@@@#*+***???*?****??%@@@##%                Interests.Data ........ Statistical Modeling, Analytics
-             ,@###?;+*????***???%%%?%###@*                
-              %###%S##@@##S###@@@@@#S####.                · Contact ─────────────────────────────────────────
-              ,#@@@@@@###@@@@@####@@@@#@?                 Email ...................... chavalisampath25@gmail.com
-               %%@##@@@@@S*+S@@@@@@@@#S#.                 LinkedIn ......................... surya-sairam-sampath
-               :++?%S#@S?*++*%S@####S*%+                  Portfolio ........... sampath402003.github.io/portfolio
-                *,;?%S#S#@##@####S%?**#:                  
-                .**?S@##S%SSS##@@#SSS#@#%?+:.             · GitHub Stats ────────────────────────────────────
-                 .?%SS%?*?%%%%%S###@@@@@@@@@@#?*+:        Repos ................................. 14 (Public: 13)
-                 ,%#SS%?%S###SS##@@@##@#####@@@@@@        Contributions .......................... 30 (last year)
-               ;S@@%S@#SSSS###@@@@@@@@@@@#########        Followers .......................... 0  |  Following: 1
-            .:%@@##S*S@@@@@@@@@@@@@@@@############        
-;;;;;:,,:+?SS@@####%*?SS####@@@@@@@@@@###@@@@@@@@#        
-,,,,.,+S#@@######S##%???%%##@@@@@@@@@@@@@@@@@@@@@@        
-    ,S@@####@#@#S%S#@@##@@@@@@@@@@@@@@@@@@@@@@@@@@        
+                                          
+                                          sampath@github ─────────────────────
+                                          OS ...................... macOS, Linux
+                                          Uptime ........ MS @ UMD, College Park
+                                          Host ................ College Park, MD
+                                          Kernel .............. AI & ML Engineer
+                                          IDE .......... Cursor, VSCode, Jupyter
+                                          
+                  ,:::,.                  Languages.Code .... Python, R, Java, C
+             ,;+?S#S###SS?;,:             Languages.AI ...... PyTorch, LangChain
+            *S##########@@@SSS;           Languages.Human ...... English, Telugu
+           *#@####@@@@@@@@@@@#@?          
+          +SS#@#######SSSS#@###@+         Interests.AI ...... LLMs, RAG, Edge AI
+          S##@%*??%%???????S@@##*         Interests.ML ..... DL, Computer Vision
+         .#@#%++????*???%%%?S##@;         
+          ?##SS#@@#####@@@@#####          · Contact ──────────────────────────
+          .#@@@@@@@@S#@@@##@@#@+          Email ............... chavalisampath25
+           *?SS#@#S?;*S#@@@@#%%           LinkedIn ........ surya-sairam-sampath
+           ,;;?S##SSSSSS##S%*%+           
+            ;*?S@#SSS###@#SSS#S?+:.       · GitHub Stats ─────────────────────
+             +SSS%?%S%%S###@@@@@@@@#%?    Repos ............................. 14
+            ;%###%%S#####@@@#@#####@@@    Contributions ......... 30 (last year)
+          :S@@%%@######@@@@@@@########    Followers ........... 0 | Following: 1
+:::,,.,;*%@@##S?S##@@@@@@@@@@@####@@##    
 ```
 
 ---
