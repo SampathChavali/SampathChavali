@@ -1,40 +1,9 @@
-<!-- ASCII art profile inspired by Andrew6rant -->
-
-<div align="center">
-
-### `> sampath.init()`
-
-</div>
-
-```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    sampath@github ─────────────────────
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    OS ...................... macOS, Linux
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    Uptime ........ MS @ UMD, College Park
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    Host ................ College Park, MD
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    Kernel .............. AI & ML Engineer
-@@@@@@@@@@@@@@@@@#S%%%S#@@@@@@@@@@@@@@    IDE .......... Cursor, VSCode, Jupyter
-@@@@@@@@@@@@@S?*;:.,,.,::+%%S@@@@@@@@@    
-@@@@@@@@@@@@*,...,... .   .:,;S@@@@@@@    Languages.Code .... Python, R, Java, C
-@@@@@@@@@@@?,  ...            .?@@@@@@    Languages.AI ...... PyTorch, LangChain
-@@@@@@@@@@S:,  ,:,,,::;;;:.    :@@@@@@    Languages.Human ...... English, Telugu
-@@@@@@@@@@+   +?*++++++++++,   :@@@@@@    
-@@@@@@@@@@?  ,;:,.,,:,,...,:.  ?@@@@@@    Interests.AI ...... LLMs, RAG, Edge AI
-@@@@@@@@@@@;        .         ,@@@@@@@    Interests.ML ..... DL, Computer Vision
-@@@@@@@@@@@%;,,.  .;?;.    .,,%@@@@@@@    
-@@@@@@@@@@@@*?+:,,:::,,,.,:;+;@@@@@@@@    · Contact ──────────────────────────
-@@@@@@@@@@@@S*+:.,:::,,. ,::. ,:+?S@@@    Email ............... chavalisampath25
-@@@@@@@@@@@@@%,::;+;,:;:,.         .,:    LinkedIn ........ surya-sairam-sampath
-@@@@@@@@@@@#;..:.,:,,...         .        
-SSSS##@@#%+   .+,             ......      · GitHub Stats ─────────────────────
-???%%*;,..   ,,;+;:,.                     Repos ............................. 14
-##@%:   ,.  ,:, ...                       Contributions ......... 30 (last year)
-#@?   ...  ,:;:.                          Followers ........... 0 | Following: 1
-#%   .    .::,,.                          
-#, .      ,,,..,                          
-+ .      .,,. ...                   .     
-```
+<a href="https://github.com/SampathChavali/SampathChavali">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SampathChavali/SampathChavali/main/dark_mode.svg">
+    <img alt="Sampath Chavali's GitHub Profile README" src="https://raw.githubusercontent.com/SampathChavali/SampathChavali/main/dark_mode.svg">
+  </picture>
+</a>
 
 ---
 
@@ -67,16 +36,8 @@ SSSS##@@#%+   .+,             ......      · GitHub Stats ───────�
 
 ### Currently
 
-:microscope: ML Intern @ **Axiado Corporation** — building agentic AI pipelines for hardware verification
+🔬 ML Intern @ **Axiado Corporation** — building agentic AI pipelines for hardware verification
 
-:mortar_board: MS Information Systems & AI @ **University of Maryland, College Park**
-
-</div>
-
----
-
-<div align="center">
-
-*Built with ASCII art and a selfie at the Golden Gate Bridge*
+🎓 MS Information Systems & AI @ **University of Maryland, College Park**
 
 </div>
