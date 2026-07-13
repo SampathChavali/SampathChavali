@@ -7,30 +7,33 @@
 </div>
 
 ```
-                                          
-                                          sampath@github ─────────────────────
-                                          OS ...................... macOS, Linux
-                                          Uptime ........ MS @ UMD, College Park
-                                          Host ................ College Park, MD
-                                          Kernel .............. AI & ML Engineer
-                                          IDE .......... Cursor, VSCode, Jupyter
-                                          
-                  ,:::,.                  Languages.Code .... Python, R, Java, C
-             ,;+?S#S###SS?;,:             Languages.AI ...... PyTorch, LangChain
-            *S##########@@@SSS;           Languages.Human ...... English, Telugu
-           *#@####@@@@@@@@@@@#@?          
-          +SS#@#######SSSS#@###@+         Interests.AI ...... LLMs, RAG, Edge AI
-          S##@%*??%%???????S@@##*         Interests.ML ..... DL, Computer Vision
-         .#@#%++????*???%%%?S##@;         
-          ?##SS#@@#####@@@@#####          · Contact ──────────────────────────
-          .#@@@@@@@@S#@@@##@@#@+          Email ............... chavalisampath25
-           *?SS#@#S?;*S#@@@@#%%           LinkedIn ........ surya-sairam-sampath
-           ,;;?S##SSSSSS##S%*%+           
-            ;*?S@#SSS###@#SSS#S?+:.       · GitHub Stats ─────────────────────
-             +SSS%?%S%%S###@@@@@@@@#%?    Repos ............................. 14
-            ;%###%%S#####@@@#@#####@@@    Contributions ......... 30 (last year)
-          :S@@%%@######@@@@@@@########    Followers ........... 0 | Following: 1
-:::,,.,;*%@@##S?S##@@@@@@@@@@@####@@##    
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    sampath@github ─────────────────────
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    OS ...................... macOS, Linux
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    Uptime ........ MS @ UMD, College Park
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    Host ................ College Park, MD
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    Kernel .............. AI & ML Engineer
+@@@@@@@@@@@@@@@@@#S%%%S#@@@@@@@@@@@@@@    IDE .......... Cursor, VSCode, Jupyter
+@@@@@@@@@@@@@S?*;:.,,.,::+%%S@@@@@@@@@    
+@@@@@@@@@@@@*,...,... .   .:,;S@@@@@@@    Languages.Code .... Python, R, Java, C
+@@@@@@@@@@@?,  ...            .?@@@@@@    Languages.AI ...... PyTorch, LangChain
+@@@@@@@@@@S:,  ,:,,,::;;;:.    :@@@@@@    Languages.Human ...... English, Telugu
+@@@@@@@@@@+   +?*++++++++++,   :@@@@@@    
+@@@@@@@@@@?  ,;:,.,,:,,...,:.  ?@@@@@@    Interests.AI ...... LLMs, RAG, Edge AI
+@@@@@@@@@@@;        .         ,@@@@@@@    Interests.ML ..... DL, Computer Vision
+@@@@@@@@@@@%;,,.  .;?;.    .,,%@@@@@@@    
+@@@@@@@@@@@@*?+:,,:::,,,.,:;+;@@@@@@@@    · Contact ──────────────────────────
+@@@@@@@@@@@@S*+:.,:::,,. ,::. ,:+?S@@@    Email ............... chavalisampath25
+@@@@@@@@@@@@@%,::;+;,:;:,.         .,:    LinkedIn ........ surya-sairam-sampath
+@@@@@@@@@@@#;..:.,:,,...         .        
+SSSS##@@#%+   .+,             ......      · GitHub Stats ─────────────────────
+???%%*;,..   ,,;+;:,.                     Repos ............................. 14
+##@%:   ,.  ,:, ...                       Contributions ......... 30 (last year)
+#@?   ...  ,:;:.                          Followers ........... 0 | Following: 1
+#%   .    .::,,.                          
+#, .      ,,,..,                          
++ .      .,,. ...                   .     
 ```
 
 ---
