@@ -86,6 +86,6 @@ SSSS#%;.   ,,.  .:,..:::,,.                               Followers ............
 
 <div align="center">
 
-[![Sampath's GitHub stats](https://github-readme-stats.vercel.app/api?username=SampathChavali&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/SampathChavali)
+*Built with ASCII art and a selfie at the Golden Gate Bridge*
 
 </div>
