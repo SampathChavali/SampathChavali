@@ -1,5 +1,4 @@
 <!-- ASCII art profile inspired by Andrew6rant -->
-<!-- To use: Create a repo named SampathChavali/SampathChavali and add this as README.md -->
 
 <div align="center">
 
@@ -8,34 +7,43 @@
 </div>
 
 ```
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@        sampath@github ─────────────────────────────────────
-@@$$$$$$$$$$$$$$$$$$@@@@@$$@@$$$$$$$$$$$$$$$@BBB        OS .......................................... macOS, Linux
-@@$$@@BB@@@$$$$$@BBBBBBBBBBBB@BB@@@@@@@@BBBBB%%%        Uptime ............................ MS @ UMD, College Park
-B@@$@@@@@$$$$$$$@BBB%%%%%%%%BBBBBB%%%%%%%%%888%%        Host .................................... College Park, MD
-BB@@$$$$$$$$@BBB%%%%88888888888%%%%%8888&&88%%%%        Kernel .................................. AI & ML Engineer
-%%BB@@@B@@@@B%88&&&&&888&&&88888888&&&WWMMW&8%%B        IDE .............................. Cursor, VSCode, Jupyter
-B%%BBBBBBBBB%%8&&&W&88&&&8888&&&&&&WWWMMMMW&88%%        
-%BB%%%%%%%%%%%%888888&&&&&8&&&888&&&&WWMWWW&W&&&        Languages.Programming ................. Python, R, Java, C
-%%%%%%%%%%%%BBBBBB%%8&&88%%BB@&MW%8%B%88&&WWMMMM        Languages.Frameworks ...... PyTorch, TensorFlow, LangChain
-&8%%%%BB%B%BBBBB%8&&&8%%%%8WhwJzuvucLk#&%WW8WMMM        Languages.Human .......................... English, Telugu
-&8%%%%%BBBBBBB%8&WWW&8B*0cv1-, ':.  :,I]xLQQo8&M        
-&8%%BBBBBB%%8&WWMMMW8M0\_".  `` .  '`    :1~!v#&        Interests.AI .............. LLMs, RAG, Agentic AI, Edge AI
-&&8%%%%%%8&&WWMMMMMW%b_      .                )Z        Interests.ML .............. Deep Learning, Computer Vision
-&888&&8&WWMMMMMMWW&8O[,                        :        Interests.Data ........... Statistical Modeling, Analytics
-&88&&&&WMMMMMW&888%M|~l   .^:`'.`"Ii~++~:               
-&WWW&&&&&&&&&&&&&8%m"    -()1[]]][[[}[[[[~              · Contact ──────────────────────────────────────────
-MMMWWWW&&&&&WWWW&&8Z    Irx/)1{{)(11{[?-_[-             Email ......................... chavalisampath25@gmail.com
-#MMMMWWWW&&&WWWWW&8M:   I:`     .^.                     LinkedIn ............................ surya-sairam-sampath
-#MWMMWW&8888&&&W&&8BL.                         c        Portfolio .............. sampath402003.github.io/portfolio
-MMWWWMMWW&&&88&&888%W_'         ,):           -#        
-WWWWWMMMMWWWWWW&888%$J/_;I`   `_jj\i       .[:Z$        · GitHub Stats ─────────────────────────────────────
-&&&WWWWWWWWW&&&8888%@*\Uu{~,.^:.`:` ". ^I+}(_~M$        Repos .................................... 14 (Public: 13)
-%8888&&&&&&&&&88%%%BB$w/\]l   """"'     I!!l  ^?        Contributions ............................. 30 (last year)
-WWW&WWWW&&WWWWWWW&&88%B0}~l'"i[{-+-+l^  "               Followers ............................. 0  |  Following: 1
-###MMMMMMMM###MMMMMMW8%k~ ,I~__i' .:I:`                 
-***oo****##*###M#MM&8Z!  `:  :iI:^`.                    
-QOmqpdbbkkkao**MMMaw)     )I                            
-||fjxucXYXYJL0ZUx+:.      }]I                           
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        sampath@github ──────────────────────────────────
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        OS ....................................... macOS, Linux
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        Uptime ......................... MS @ UMD, College Park
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        Host ................................. College Park, MD
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        Kernel ............................... AI & ML Engineer
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        IDE ........................... Cursor, VSCode, Jupyter
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        Languages.Programming .............. Python, R, Java, C
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        Languages.Frameworks ... PyTorch, TensorFlow, LangChain
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        Languages.Human ....................... English, Telugu
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@        
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##%%?????%S@@@@@@@@@@@        Interests.AI ........... LLMs, RAG, Agentic AI, Edge AI
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S#%S?+;:,::,,...,;+*%SSSS@@@        Interests.ML ........... Deep Learning, Computer Vision
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S?+;;,,..  .,...,:   .:+?*+%@        Interests.Data ........ Statistical Modeling, Analytics
+@@@@@@@@@@@@@@@@@@@@@@@@@@@#?::..   .,:. ..... .    .::,.;        
+@@@@@@@@@@@@@@@@@@@@@@@@@@@%:.  ......                . ,.        · Contact ─────────────────────────────────────────
+@@@@@@@@@@@@@@@@@@@@@@@@@#%:,.  ....                     .        Email ...................... chavalisampath25@gmail.com
+@@@@@@@@@@@@@@@@@@@@@@@@@%:::.     ..      .,,,,,,,               LinkedIn ......................... surya-sairam-sampath
+@@@@@@@@@@@@@@@@@@@@@@@@@*::,.  ,::::::::::;;;;;;;;:.             Portfolio ........... sampath402003.github.io/portfolio
+@@@@@@@@@@@@@@@@@@@@@@@@S:     .+++++;;;;;;;;;;;;;;;;,            
+@@@@@@@@@@@@@@@@@@@@@@@@#,     ;***+++++++++++++;;;;;;,           · GitHub Stats ────────────────────────────────────
+@@@@@@@@@@@@@@@@@@@@@@@@@;    :++;,....,,:;:,,..   .,::.          Repos ................................. 14 (Public: 13)
+@@@@@@@@@@@@@@@@@@@@@@@@@%,                                       Contributions .......................... 30 (last year)
+#@@@@@@@@@@@@@@@@@@@@@@@@@+.              .                       Followers .......................... 0  |  Following: 1
+@@@@@@@@@@@@@@@@@@@@@@@@@@S,, ..         ;+:          . ..        
+@@@@@@@@@@@@@@@@@@@@@@@@@@@+*:.,,..   .:+?**;,         .+,        
+@@@@@@@@@@@@@@@@@@@@@@@@@@@%+%?+;:,. ,;:::;:,::. ..,,:;+;,        
+@@@@@@@@@@@@@@@@@@@@@@@@@@@#+*?+;:,,,,.  ..   ....::;;;;,,        
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+++;:.  .,:,,,,,..   .,,,,,          
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S;:::.,,:;++;;;;::,. ,,.             
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S,.:::;;::,  .,,::,,                
+######################@@@@@@S+. ,...,:;::,,,,,,.                  
+###########@@@@@@@@@@#@@@@S;    :;   ,,,,...                      
+%%%SSSSS###########@@@@#S*.     ,+;.                              
++++****???%???%%%SSS%*;:,     ..,;;:,.                   .        
++*************??*+:,   ,  .. .:.,+;;;;:::,.                       
+*%%%SSSSSSSSSSS+,.   .,...  .,,,..,:;;:,..                        
 ```
 
 ---
@@ -69,9 +77,9 @@ QOmqpdbbkkkao**MMMaw)     )I
 
 ### Currently
 
-🔬 ML Intern @ **Axiado Corporation** — building agentic AI pipelines for hardware verification
+:microscope: ML Intern @ **Axiado Corporation** — building agentic AI pipelines for hardware verification
 
-🎓 MS Information Systems & AI @ **University of Maryland, College Park**
+:mortar_board: MS Information Systems & AI @ **University of Maryland, College Park**
 
 </div>
 
